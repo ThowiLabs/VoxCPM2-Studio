@@ -1,0 +1,27 @@
+# Machine local & secrets
+.venv/
+__pycache__/
+.pytest_cache/
+.gradio/
+*.py[cod]
+.ipynb_checkpoints/
+.env
+.env.*
+!/.env.example
+*.log
+.cache/
+models/
+checkpoints/
+hf_cache/
+outputs/
+datasets/
+wavs/
+*.wav
+*.flac
+*.mp3
+*.ckpt
+*.onnx
+*.pt
+*.pth
+*.safetensors
+*.zip
